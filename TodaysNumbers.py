@@ -1,3 +1,5 @@
+#This script was made by Armin Zare Zadeh
+#Student Number: 000881169
 import time
 import random
 
